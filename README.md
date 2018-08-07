@@ -20,4 +20,13 @@
 },
 "python.pythonPath": "/usr/bin/python3",
 "problems.decorations.enabled": false,
+"editor.snippetSuggestions": "none",
+"gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+},
+"gitlens.mode.active": "zen",
+"workbench.editor.enablePreview": false,
+"workbench.editor.enablePreviewFromQuickOpen": false,
+"terminal.integrated.fontSize": 14,
+"terminal.integrated.fontFamily": "'Noto Mono', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
 }
