@@ -27,3 +27,29 @@
     "window.titleBarStyle": "custom",
     "editor.parameterHints.enabled": false
 }
+
+
+____________________________________________________________________________
+sublime keybinding
+
+[
+	{"keys": ["ctrl+alt+m"], "command": "toggle_menu"},
+    { "keys": ["ctrl+:"], "command": "toggle_comment", "args": { "block": false } },
+
+]
+
+settings
+
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"show_definitions": false,
+	"theme": "ayu-dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+}
+
