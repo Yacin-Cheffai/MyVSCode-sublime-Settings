@@ -38,6 +38,7 @@ sublime keybinding
 
 ]
 
+
 settings
 
 {
@@ -51,5 +52,8 @@ settings
 	"show_definitions": false,
 	"theme": "ayu-dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"tab_completion": true,
+	"shift_tab_unindent": true,
 }
+
 
