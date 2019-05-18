@@ -57,3 +57,9 @@ settings
 }
 
 
+_______________________________________________________________________
+i3
+
+
+focus_follows_mouse no
+for_window [class="^.*"] border pixel 3
